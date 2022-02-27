@@ -6,6 +6,11 @@ GraphQL API 勉強会のまとめリポジトリです。
 
 Slack チャンネル: `#hands-on-graphqlapi`
 
+## この勉強会の目的
+
+- GraphQL とは何なのかを理解する
+- 実際に簡単な API を実装してみて、GraphQLサーバー実装の素振りをする
+
 ## 勉強会の進め方
 
 [Apollo ServerとPrismaではじめるGraphQL API開発入門](https://zenn.dev/eringiv3/books/a85174531fd56a) を参加者メンバーで一緒に読みながら進めます。  
@@ -18,7 +23,7 @@ Slack チャンネル: `#hands-on-graphqlapi`
 
 - [[第一回] 2022/02/27 13:00 ~ 18:00](https://github.com/youngeek-0410/handson-graphql-api/discussions/1****)
 
-## その他トピック
+## 📝 その他トピック
 
 - 途中参加、途中退室 OK
 - 前回参加していなくても参加 OK
